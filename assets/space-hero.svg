@@ -1,258 +1,171 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="100%" height="240">
   <defs>
-    <!-- Background Gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#050811" />
-      <stop offset="40%" stop-color="#0a0f1d" />
-      <stop offset="70%" stop-color="#0d1117" />
-      <stop offset="100%" stop-color="#060913" />
+      <stop offset="0%" stop-color="#050811"/>
+      <stop offset="50%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#060913"/>
     </linearGradient>
 
-    <!-- Radial Cosmic Glow behind name -->
-    <radialGradient id="centerGlow" cx="50%" cy="45%" r="40%">
-      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.18" />
-      <stop offset="50%" stop-color="#79c0ff" stop-opacity="0.05" />
-      <stop offset="100%" stop-color="#0d1117" stop-opacity="0" />
+    <radialGradient id="centerGlow" cx="50%" cy="45%" r="45%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.18"/>
+      <stop offset="50%" stop-color="#79c0ff" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
     </radialGradient>
 
-    <!-- Subtle Nebula Glow Pink/Purple -->
-    <radialGradient id="nebulaGlow" cx="75%" cy="30%" r="35%">
-      <stop offset="0%" stop-color="#bc8cff" stop-opacity="0.12" />
-      <stop offset="100%" stop-color="#0d1117" stop-opacity="0" />
-    </radialGradient>
+    <linearGradient id="starTail1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="70%" stop-color="#79c0ff" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="1"/>
+    </linearGradient>
 
-    <!-- Glow Filter for Typography & Bright Stars -->
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="3.5" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
+    <linearGradient id="starTail2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#bc8cff" stop-opacity="0"/>
+      <stop offset="70%" stop-color="#d2a8ff" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="1"/>
+    </linearGradient>
 
-    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="1.5" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#30363d" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#58a6ff" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#30363d" stop-opacity="0"/>
+    </linearGradient>
 
     <style>
-      .star-twinkle-1 { animation: twinkle 3s ease-in-out infinite; }
-      .star-twinkle-2 { animation: twinkle 4.2s ease-in-out infinite 1s; }
-      .star-twinkle-3 { animation: twinkle 2.5s ease-in-out infinite 0.5s; }
-      .star-twinkle-4 { animation: twinkle 5s ease-in-out infinite 2s; }
-
       @keyframes twinkle {
-        0%, 100% { opacity: 0.2; transform: scale(0.8); }
-        50% { opacity: 1; transform: scale(1.3); }
-      }
-
-      .drift-particle-1 { animation: drift 14s linear infinite; }
-      .drift-particle-2 { animation: driftReverse 18s linear infinite; }
-
-      @keyframes drift {
-        0% { transform: translateY(0px) translateX(0px); opacity: 0.3; }
-        50% { opacity: 0.85; }
-        100% { transform: translateY(-30px) translateX(25px); opacity: 0.3; }
-      }
-
-      @keyframes driftReverse {
-        0% { transform: translateY(0px) translateX(0px); opacity: 0.2; }
-        50% { opacity: 0.75; }
-        100% { transform: translateY(25px) translateX(-25px); opacity: 0.2; }
-      }
-
-      /* Shooting Star 1 */
-      .shooting-star-1 {
-        animation: shoot1 7s ease-in-out infinite 1.2s;
-        opacity: 0;
+        0%, 100% { opacity: 0.25; transform: scale(0.85); }
+        50% { opacity: 1; transform: scale(1.25); }
       }
       @keyframes shoot1 {
-        0% { transform: translate(120px, 10px) rotate(-35deg); opacity: 0; }
-        3% { opacity: 1; }
+        0% { transform: translate(120px, 15px) rotate(-35deg); opacity: 0; }
+        4% { opacity: 1; }
         8% { transform: translate(-80px, 140px) rotate(-35deg); opacity: 0; }
         100% { opacity: 0; }
       }
-
-      /* Shooting Star 2 */
-      .shooting-star-2 {
-        animation: shoot2 9.5s ease-in-out infinite 4.8s;
-        opacity: 0;
-      }
       @keyframes shoot2 {
         0% { transform: translate(780px, 20px) rotate(-38deg); opacity: 0; }
-        3% { opacity: 0.95; }
-        7% { transform: translate(580px, 160px) rotate(-38deg); opacity: 0; }
+        4% { opacity: 1; }
+        8% { transform: translate(580px, 160px) rotate(-38deg); opacity: 0; }
         100% { opacity: 0; }
       }
-
-      /* Orbit Ring Subtle Rotation */
-      .orbit-ring {
-        animation: orbitPulse 8s ease-in-out infinite alternate;
-        transform-origin: center;
+      @keyframes drift {
+        0% { transform: translateY(0px) translateX(0px); opacity: 0.3; }
+        50% { opacity: 0.85; }
+        100% { transform: translateY(-20px) translateX(15px); opacity: 0.3; }
       }
-      @keyframes orbitPulse {
-        0% { opacity: 0.12; transform: scale(0.98); }
-        100% { opacity: 0.28; transform: scale(1.02); }
-      }
-
-      .text-shimmer {
-        letter-spacing: -1.5px;
-      }
+      .tw1 { animation: twinkle 3s ease-in-out infinite; }
+      .tw2 { animation: twinkle 4.2s ease-in-out infinite 1s; }
+      .tw3 { animation: twinkle 2.5s ease-in-out infinite 0.5s; }
+      .tw4 { animation: twinkle 5s ease-in-out infinite 2s; }
+      .sh1 { animation: shoot1 6.5s ease-in-out infinite 1s; opacity: 0; }
+      .sh2 { animation: shoot2 8.5s ease-in-out infinite 3.5s; opacity: 0; }
+      .dr1 { animation: drift 12s linear infinite; }
     </style>
   </defs>
 
-  <!-- Background Base Canvas -->
-  <rect width="900" height="240" rx="10" fill="url(#bgGrad)" />
-  <rect width="900" height="240" rx="10" fill="url(#centerGlow)" />
-  <rect width="900" height="240" rx="10" fill="url(#nebulaGlow)" />
+  <rect width="900" height="240" rx="8" fill="url(#bgGrad)"/>
+  <rect width="900" height="240" rx="8" fill="url(#centerGlow)"/>
 
-  <!-- Subtle Constellation Geometry Grid -->
-  <g stroke="#30363d" stroke-width="0.6" stroke-opacity="0.35" stroke-dasharray="3,4">
-    <line x1="80" y1="40" x2="220" y2="70" />
-    <line x1="220" y1="70" x2="160" y2="160" />
-    <line x1="160" y1="160" x2="280" y2="190" />
-    
-    <line x1="680" y1="50" x2="760" y2="90" />
-    <line x1="760" y1="90" x2="840" y2="40" />
-    <line x1="760" y1="90" x2="720" y2="180" />
+  <!-- Constellation Lines -->
+  <g stroke="#30363d" stroke-width="0.7" stroke-opacity="0.35" stroke-dasharray="3,4">
+    <line x1="80" y1="40" x2="220" y2="70"/>
+    <line x1="220" y1="70" x2="160" y2="160"/>
+    <line x1="160" y1="160" x2="280" y2="190"/>
+    <line x1="680" y1="50" x2="760" y2="90"/>
+    <line x1="760" y1="90" x2="840" y2="40"/>
+    <line x1="760" y1="90" x2="720" y2="180"/>
   </g>
 
-  <!-- Subtle Orbit Rings around center Name -->
-  <g class="orbit-ring" fill="none" stroke="#58a6ff" stroke-width="0.8" stroke-dasharray="5, 8">
-    <ellipse cx="450" cy="100" rx="280" ry="70" />
+  <!-- Orbit Ellipses -->
+  <g fill="none" stroke="#58a6ff" stroke-width="0.8" stroke-dasharray="4, 8" opacity="0.22">
+    <ellipse cx="450" cy="105" rx="280" ry="70"/>
   </g>
-  <g fill="none" stroke="#bc8cff" stroke-width="0.5" stroke-opacity="0.2" stroke-dasharray="2, 6">
-    <ellipse cx="450" cy="100" rx="340" ry="85" />
+  <g fill="none" stroke="#bc8cff" stroke-width="0.5" stroke-dasharray="2, 6" opacity="0.18">
+    <ellipse cx="450" cy="105" rx="340" ry="85"/>
   </g>
 
-  <!-- Twinkling Star Field across entire space -->
+  <!-- Twinkling Stars -->
   <g fill="#ffffff">
-    <!-- Star Group 1 -->
-    <g class="star-twinkle-1">
-      <circle cx="80" cy="40" r="1.6" filter="url(#softGlow)" />
-      <circle cx="220" cy="70" r="1.8" filter="url(#softGlow)" />
-      <circle cx="340" cy="35" r="1.3" />
-      <circle cx="680" cy="50" r="1.6" filter="url(#softGlow)" />
-      <circle cx="810" cy="170" r="1.4" />
-      <circle cx="490" cy="30" r="1.2" />
-      <circle cx="150" cy="210" r="1.5" />
-      <circle cx="580" cy="200" r="1.3" />
+    <g class="tw1">
+      <circle cx="80" cy="40" r="1.6"/>
+      <circle cx="220" cy="70" r="1.8"/>
+      <circle cx="340" cy="35" r="1.3"/>
+      <circle cx="680" cy="50" r="1.6"/>
+      <circle cx="810" cy="170" r="1.4"/>
+      <circle cx="490" cy="30" r="1.2"/>
+      <circle cx="150" cy="210" r="1.5"/>
+      <circle cx="580" cy="200" r="1.3"/>
     </g>
 
-    <!-- Star Group 2 (Slightly larger diamond stars) -->
-    <g class="star-twinkle-2" fill="#79c0ff">
-      <!-- 4-point Diamond Star Left -->
-      <polygon points="160,154 162,160 168,160 163,164 165,170 160,166 155,170 157,164 152,160 158,160" filter="url(#softGlow)" />
-      <!-- 4-point Diamond Star Right -->
-      <polygon points="760,84 762,90 768,90 763,94 765,100 760,96 755,100 757,94 752,90 758,90" filter="url(#softGlow)" />
-      <circle cx="280" cy="190" r="1.5" />
-      <circle cx="720" cy="180" r="1.6" />
-      <circle cx="390" cy="45" r="1.2" />
-      <circle cx="630" cy="40" r="1.4" />
-      <circle cx="850" cy="110" r="1.3" />
+    <g class="tw2" fill="#79c0ff">
+      <circle cx="160" cy="160" r="2.0"/>
+      <circle cx="760" cy="90" r="2.0"/>
+      <circle cx="280" cy="190" r="1.5"/>
+      <circle cx="720" cy="180" r="1.6"/>
+      <circle cx="390" cy="45" r="1.2"/>
+      <circle cx="630" cy="40" r="1.4"/>
+      <circle cx="850" cy="110" r="1.3"/>
     </g>
 
-    <!-- Star Group 3 -->
-    <g class="star-twinkle-3" fill="#d2a8ff">
-      <circle cx="120" cy="110" r="1.2" />
-      <circle cx="260" cy="130" r="1.5" />
-      <circle cx="600" cy="110" r="1.4" />
-      <circle cx="740" cy="140" r="1.2" />
-      <circle cx="840" cy="40" r="1.7" filter="url(#softGlow)" />
-      <circle cx="45" cy="170" r="1.1" />
-      <circle cx="410" cy="190" r="1.2" />
+    <g class="tw3" fill="#d2a8ff">
+      <circle cx="120" cy="110" r="1.2"/>
+      <circle cx="260" cy="130" r="1.5"/>
+      <circle cx="600" cy="110" r="1.4"/>
+      <circle cx="740" cy="140" r="1.2"/>
+      <circle cx="840" cy="40" r="1.7"/>
+      <circle cx="45" cy="170" r="1.1"/>
+      <circle cx="410" cy="190" r="1.2"/>
     </g>
 
-    <!-- Star Group 4 -->
-    <g class="star-twinkle-4" fill="#a5d6ff">
-      <circle cx="50" cy="65" r="1.0" />
-      <circle cx="190" cy="25" r="1.2" />
-      <circle cx="310" cy="80" r="1.4" />
-      <circle cx="650" cy="85" r="1.1" />
-      <circle cx="790" cy="60" r="1.3" />
-      <circle cx="865" cy="205" r="1.5" />
-      <circle cx="520" cy="185" r="1.1" />
+    <g class="tw4" fill="#a5d6ff">
+      <circle cx="50" cy="65" r="1.0"/>
+      <circle cx="190" cy="25" r="1.2"/>
+      <circle cx="310" cy="80" r="1.4"/>
+      <circle cx="650" cy="85" r="1.1"/>
+      <circle cx="790" cy="60" r="1.3"/>
+      <circle cx="865" cy="205" r="1.5"/>
+      <circle cx="520" cy="185" r="1.1"/>
     </g>
   </g>
 
-  <!-- Shooting Stars with Glow Gradient Tails -->
-  <g class="shooting-star-1">
-    <line x1="0" y1="0" x2="65" y2="0" stroke="url(#starTail)" stroke-width="1.8" stroke-linecap="round" />
-    <circle cx="65" cy="0" r="2.2" fill="#ffffff" filter="url(#glow)" />
+  <!-- Shooting Stars -->
+  <g class="sh1">
+    <line x1="0" y1="0" x2="65" y2="0" stroke="url(#starTail1)" stroke-width="1.8" stroke-linecap="round"/>
+    <circle cx="65" cy="0" r="2.2" fill="#ffffff"/>
   </g>
-  <defs>
-    <linearGradient id="starTail" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0" />
-      <stop offset="70%" stop-color="#79c0ff" stop-opacity="0.6" />
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="1" />
-    </linearGradient>
-  </defs>
-
-  <g class="shooting-star-2">
-    <line x1="0" y1="0" x2="55" y2="0" stroke="url(#starTail2)" stroke-width="1.6" stroke-linecap="round" />
-    <circle cx="55" cy="0" r="2.0" fill="#ffffff" filter="url(#glow)" />
-  </g>
-  <defs>
-    <linearGradient id="starTail2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#bc8cff" stop-opacity="0" />
-      <stop offset="70%" stop-color="#d2a8ff" stop-opacity="0.6" />
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="1" />
-    </linearGradient>
-  </defs>
-
-  <!-- Drifting Micro Space Dust -->
-  <g class="drift-particle-1" fill="#79c0ff">
-    <circle cx="210" cy="110" r="0.9" />
-    <circle cx="290" cy="160" r="0.8" />
-    <circle cx="610" cy="80" r="0.8" />
-    <circle cx="700" cy="160" r="0.9" />
-  </g>
-  <g class="drift-particle-2" fill="#d2a8ff">
-    <circle cx="240" cy="80" r="0.8" />
-    <circle cx="370" cy="170" r="0.9" />
-    <circle cx="560" cy="150" r="0.8" />
-    <circle cx="670" cy="130" r="0.9" />
+  <g class="sh2">
+    <line x1="0" y1="0" x2="55" y2="0" stroke="url(#starTail2)" stroke-width="1.6" stroke-linecap="round"/>
+    <circle cx="55" cy="0" r="2.0" fill="#ffffff"/>
   </g>
 
-  <!-- Sparkling Cross Accents Near Name -->
+  <!-- Drifting Dust -->
+  <g class="dr1" fill="#79c0ff">
+    <circle cx="210" cy="110" r="0.9"/>
+    <circle cx="290" cy="160" r="0.8"/>
+    <circle cx="610" cy="80" r="0.8"/>
+    <circle cx="700" cy="160" r="0.9"/>
+    <circle cx="240" cy="80" r="0.8"/>
+    <circle cx="370" cy="170" r="0.9"/>
+    <circle cx="560" cy="150" r="0.8"/>
+    <circle cx="670" cy="130" r="0.9"/>
+  </g>
+
+  <!-- Star Crosses near Name -->
   <g stroke="#ffffff" stroke-width="1" stroke-linecap="round" opacity="0.85">
-    <!-- Star cross near upper left of name -->
-    <path d="M 330 65 L 330 75 M 325 70 L 335 70" class="star-twinkle-1" filter="url(#softGlow)" />
-    <!-- Star cross near upper right of name -->
-    <path d="M 570 60 L 570 70 M 565 65 L 575 65" class="star-twinkle-3" filter="url(#softGlow)" />
-    <!-- Star cross lower left -->
-    <path d="M 315 140 L 315 148 M 311 144 L 319 144" class="star-twinkle-2" />
-    <!-- Star cross lower right -->
-    <path d="M 585 135 L 585 143 M 581 139 L 589 139" class="star-twinkle-4" />
+    <path d="M 330 65 L 330 75 M 325 70 L 335 70" class="tw1"/>
+    <path d="M 570 60 L 570 70 M 565 65 L 575 65" class="tw3"/>
+    <path d="M 315 140 L 315 148 M 311 144 L 319 144" class="tw2"/>
+    <path d="M 585 135 L 585 143 M 581 139 L 589 139" class="tw4"/>
   </g>
 
-  <!-- ══════════════ CENTER TYPOGRAPHY ══════════════ -->
-
-  <!-- Subtle glow layer under name -->
-  <text x="50%" y="108" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="52" fill="#58a6ff" opacity="0.3" filter="url(#glow)" class="text-shimmer">
-    deepshika.
-  </text>
-
-  <!-- Crisp Main Name -->
-  <text x="50%" y="108" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="52" fill="#f0f6fc" class="text-shimmer">
+  <!-- Center Typography -->
+  <text x="50%" y="108" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="52" fill="#f0f6fc" letter-spacing="-1.5">
     deepshika<tspan fill="#58a6ff">.</tspan>
   </text>
 
-  <!-- Monospace Subtitle with space dots -->
   <text x="50%" y="146" text-anchor="middle" font-family="'Fira Code', 'Fira Mono', Monaco, Consolas, monospace" font-size="14" font-weight="500" fill="#8b949e" letter-spacing="4">
     DATA <tspan fill="#58a6ff">&bull;</tspan> AI <tspan fill="#bc8cff">&bull;</tspan> SOFTWARE
   </text>
 
-  <!-- Clean Bottom Gradient Border Accent -->
-  <rect x="250" y="238" width="400" height="2" fill="url(#lineGrad)" rx="1" />
-  <defs>
-    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#30363d" stop-opacity="0" />
-      <stop offset="50%" stop-color="#58a6ff" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#30363d" stop-opacity="0" />
-    </linearGradient>
-  </defs>
+  <!-- Bottom Accent Line -->
+  <rect x="250" y="238" width="400" height="2" fill="url(#lineGrad)" rx="1"/>
 </svg>
