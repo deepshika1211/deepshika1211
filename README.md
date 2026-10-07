@@ -15,50 +15,58 @@
 
 <br/><br/>
 
-<!-- ══════════════ ABOUT & CURRENTLY (UNIFIED CARDS) ══════════════ -->
+<!-- ══════════════ MATCHED 50/50 PANELS: ABOUT & CURRENTLY ══════════════ -->
 
-<table width="680" cellpadding="14" cellspacing="0" style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117;">
+<table width="88%" cellpadding="0" cellspacing="0" border="0">
 <tr>
-<td align="left">
+<td width="48%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 22px 20px;">
 
+<div align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=12&duration=100&pause=99999&color=8b949e&vCenter=true&repeat=false&width=100&height=16&lines=%2F%2F+about" alt="// about"/>
-
 <br/><br/>
 
-<sub><b>DEGREE & FOCUS</b></sub><br/>
-<code>final-year B.Tech CS &middot; Data Science minor</code>
+<sub><font color="#8b949e"><b>DEGREE & FOCUS</b></font></sub><br/>
+<font color="#c9d1d9"><b>final-year B.Tech CS</b></font><br/>
+<font color="#8b949e">Data Science minor</font>
 
-<br/><br/>
+<br/><br/><br/>
 
-<sub><b>CORE PHILOSOPHY</b></sub><br/>
-i'm drawn to the space where <b>data becomes a decision</b> and <b>software becomes useful</b> —  
-building systems that reason, process, and respond rather than just execute.
+<sub><font color="#8b949e"><b>CORE PHILOSOPHY</b></font></sub><br/>
+<font color="#c9d1d9"><b>data &rarr; decisions</b></font><br/>
+<font color="#8b949e">software &rarr; useful systems</font>
+</div>
 
 </td>
-</tr>
-</table>
 
-<br/>
+<td width="4%"></td>
 
-<table width="680" cellpadding="14" cellspacing="0" style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117;">
-<tr>
-<td align="left">
+<td width="48%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 22px 20px;">
 
+<div align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=12&duration=100&pause=99999&color=8b949e&vCenter=true&repeat=false&width=120&height=16&lines=%2F%2F+currently" alt="// currently"/>
-
 <br/><br/>
 
-&nbsp;<code>→</code>&nbsp; deepening DSA & problem-solving foundations<br/>
-&nbsp;<code>→</code>&nbsp; building AI-powered document intelligence systems<br/>
-&nbsp;<code>→</code>&nbsp; exploring ML pipelines and model evaluation<br/>
-&nbsp;<code>→</code>&nbsp; improving backend architecture & API design<br/>
-&nbsp;<code>→</code>&nbsp; learning how real production systems are engineered
+<font color="#58a6ff"><code>01</code></font>&nbsp; <font color="#c9d1d9"><b>DSA</b></font><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#8b949e"><sub>problem solving</sub></font><br/>
+
+<font color="#58a6ff"><code>02</code></font>&nbsp; <font color="#c9d1d9"><b>AI / ML</b></font><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#8b949e"><sub>intelligent systems</sub></font><br/>
+
+<font color="#58a6ff"><code>03</code></font>&nbsp; <font color="#c9d1d9"><b>RAG</b></font><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#8b949e"><sub>document intelligence</sub></font><br/>
+
+<font color="#58a6ff"><code>04</code></font>&nbsp; <font color="#c9d1d9"><b>DATA SCIENCE</b></font><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#8b949e"><sub>analysis & modeling</sub></font><br/>
+
+<font color="#58a6ff"><code>05</code></font>&nbsp; <font color="#c9d1d9"><b>BACKEND</b></font><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#8b949e"><sub>APIs & architecture</sub></font>
+</div>
 
 </td>
 </tr>
 </table>
 
-<br/>
+<br/><br/>
 
 <!-- ══════════════ TECH STACK ══════════════ -->
 
