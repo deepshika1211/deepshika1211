@@ -8,58 +8,74 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=13&duration=2600&pause=1200&color=777777&center=true&vCenter=true&width=580&height=22&lines=making+data+reason+and+software+decide.;building+intelligent+systems+from+scratch.;ai+%2F+data+science+%2F+software+engineering;learning%2C+building%2C+breaking%2C+rebuilding.">
+    srcset="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=13&duration=2600&pause=1200&color=777777&center=true&vCenter=true&width=620&height=22&lines=making+data+reason+and+software+decide.;building+intelligent+systems+from+scratch.;ai+%2F+data+science+%2F+software+engineering;learning%2C+building%2C+breaking%2C+rebuilding.">
   <img alt="tagline"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=13&duration=2600&pause=1200&color=555555&center=true&vCenter=true&width=580&height=22&lines=making+data+reason+and+software+decide.;building+intelligent+systems+from+scratch.;ai+%2F+data+science+%2F+software+engineering;learning%2C+building%2C+breaking%2C+rebuilding.">
+    src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=13&duration=2600&pause=1200&color=555555&center=true&vCenter=true&width=620&height=22&lines=making+data+reason+and+software+decide.;building+intelligent+systems+from+scratch.;ai+%2F+data+science+%2F+software+engineering;learning%2C+building%2C+breaking%2C+rebuilding.">
 </picture>
 
 <br/><br/>
 
-<!-- ══════════════ MATCHED 50/50 PANELS: ABOUT & CURRENTLY ══════════════ -->
+<!-- ══════════════ EXPANDED 50/50 TWO-COLUMN PANELS ══════════════ -->
 
-<table width="88%" cellpadding="0" cellspacing="0" border="0">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width: 860px;">
 <tr>
-<td width="48%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 22px 20px;">
+<td width="48%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 24px 22px;">
 
 <div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=12&duration=100&pause=99999&color=8b949e&vCenter=true&repeat=false&width=100&height=16&lines=%2F%2F+about" alt="// about"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=13&duration=100&pause=99999&color=8b949e&vCenter=true&repeat=false&width=110&height=16&lines=%2F%2F+about" alt="// about"/>
+
 <br/><br/>
 
-<sub><font color="#8b949e"><b>DEGREE & FOCUS</b></font></sub><br/>
-<font color="#c9d1d9"><b>final-year B.Tech CS</b></font><br/>
-<font color="#8b949e">Data Science minor</font>
+<sub><font color="#8b949e"><b>BACKGROUND & ACADEMICS</b></font></sub><br/>
+<font color="#c9d1d9"><b>Final-year B.Tech in Computer Science</b></font><br/>
+<font color="#8b949e">Minor in Data Science &bull; Deepening foundation in algorithms, system design, and applied intelligence.</font>
 
-<br/><br/><br/>
+<br/><br/>
+
+<sub><font color="#8b949e"><b>ENGINEERING FOCUS</b></font></sub><br/>
+<font color="#c9d1d9"><b>Bridging Data Science & Production Systems</b></font><br/>
+<font color="#8b949e">Passionate about building AI-driven software where models aren't isolated prototypes, but reliable, integrated backends that solve real document and analytical problems.</font>
+
+<br/><br/>
 
 <sub><font color="#8b949e"><b>CORE PHILOSOPHY</b></font></sub><br/>
-<font color="#c9d1d9"><b>data &rarr; decisions</b></font><br/>
-<font color="#8b949e">software &rarr; useful systems</font>
+<font color="#c9d1d9"><b>data &rarr; decisions &nbsp;&bull;&nbsp; software &rarr; impact</b></font><br/>
+<font color="#8b949e">Crafting software that turns unstructured information into structured intelligence with speed and precision.</font>
 </div>
 
 </td>
 
 <td width="4%"></td>
 
-<td width="48%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 22px 20px;">
+<td width="48%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 24px 22px;">
 
 <div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=12&duration=100&pause=99999&color=8b949e&vCenter=true&repeat=false&width=120&height=16&lines=%2F%2F+currently" alt="// currently"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=13&duration=100&pause=99999&color=8b949e&vCenter=true&repeat=false&width=130&height=16&lines=%2F%2F+currently" alt="// currently"/>
+
 <br/><br/>
 
-<font color="#58a6ff"><code>01</code></font>&nbsp; <font color="#c9d1d9"><b>DSA</b></font><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#8b949e"><sub>problem solving</sub></font><br/>
+<font color="#58a6ff"><code>01</code></font>&nbsp; <font color="#c9d1d9"><b>DSA & Problem Solving</b></font><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#8b949e">Strengthening advanced algorithms, complexity analysis, and pattern design.</font>
 
-<font color="#58a6ff"><code>02</code></font>&nbsp; <font color="#c9d1d9"><b>AI / ML</b></font><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#8b949e"><sub>intelligent systems</sub></font><br/>
+<br/>
 
-<font color="#58a6ff"><code>03</code></font>&nbsp; <font color="#c9d1d9"><b>RAG</b></font><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#8b949e"><sub>document intelligence</sub></font><br/>
+<font color="#58a6ff"><code>02</code></font>&nbsp; <font color="#c9d1d9"><b>RAG & AI Intelligence Platforms</b></font><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#8b949e">Developing vector search (FAISS) & LLM document querying pipelines.</font>
 
-<font color="#58a6ff"><code>04</code></font>&nbsp; <font color="#c9d1d9"><b>DATA SCIENCE</b></font><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#8b949e"><sub>analysis & modeling</sub></font><br/>
+<br/>
 
-<font color="#58a6ff"><code>05</code></font>&nbsp; <font color="#c9d1d9"><b>BACKEND</b></font><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#8b949e"><sub>APIs & architecture</sub></font>
+<font color="#58a6ff"><code>03</code></font>&nbsp; <font color="#c9d1d9"><b>Machine Learning & Data Science</b></font><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#8b949e">Predictive modeling, EDA pipelines, and statistical donor/healthcare analytics.</font>
+
+<br/>
+
+<font color="#58a6ff"><code>04</code></font>&nbsp; <font color="#c9d1d9"><b>Backend & API Engineering</b></font><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#8b949e">Designing robust, modular RESTful services with Python (FastAPI / Flask).</font>
+
+<br/>
+
+<font color="#58a6ff"><code>05</code></font>&nbsp; <font color="#c9d1d9"><b>Full-Stack Product Craft</b></font><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#8b949e">Connecting clean React/Vite interfaces with intelligent backend architectures.</font>
 </div>
 
 </td>
