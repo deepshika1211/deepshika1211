@@ -2,9 +2,7 @@
 
 <!-- ══════════════ COSMIC ANIMATED SPACE HERO ══════════════ -->
 
-<picture>
-  <img width="100%" style="max-width: 860px;" src="https://raw.githubusercontent.com/deepshika1211/deepshika1211/main/assets/space-hero.svg" alt="deepshika - space hero"/>
-</picture>
+<img width="100%" src="./assets/space-hero.svg" alt="deepshika - space hero"/>
 
 <br/>
 
