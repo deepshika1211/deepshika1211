@@ -93,32 +93,31 @@ I'm applying these interests through projects involving PDF intelligence, predic
 
 <br/>
 
-<!-- ══════════════ ENGINEERING & SYSTEM ARCHITECTURE PILLARS ══════════════ -->
+<!-- ══════════════ ANIMATED CYBERSPACE TELEMETRY / LIVE HUD ══════════════ -->
 
-<table width="100%" cellpadding="14" cellspacing="0" border="0" style="max-width: 860px; border: 1px solid #1e293b; border-radius: 10px; background-color: #0b0f19;">
+<table width="100%" cellpadding="16" cellspacing="0" border="0" style="max-width: 860px; border: 1px solid #1e293b; border-radius: 10px; background-color: #0b0f19;">
 <tr>
 <td align="left">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=100&pause=99999&color=818cf8&vCenter=true&repeat=false&width=150&height=16&lines=%2F%2F+core+pillars" alt="// core pillars"/>
-
-<br/><br/>
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td width="33%" valign="top">
-<font color="#60a5fa"><code>01</code></font> <font color="#e2e8f0"><b>DATA TO VALUE</b></font><br/>
-<sub><font color="#94a3b8">Uncovering signal in messy data with statistics, feature pipelines & clear visualization.</font></sub>
+<td align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=100&pause=99999&color=818cf8&vCenter=true&repeat=false&width=180&height=16&lines=%2F%2F+telemetry_stream" alt="// telemetry stream"/>
 </td>
-<td width="33%" valign="top">
-<font color="#818cf8"><code>02</code></font> <font color="#e2e8f0"><b>INTELLIGENT SYSTEMS</b></font><br/>
-<sub><font color="#94a3b8">Deploying pragmatic RAG, vector retrieval, and LLM-assisted workflow automation.</font></sub>
-</td>
-<td width="33%" valign="top">
-<font color="#a78bfa"><code>03</code></font> <font color="#e2e8f0"><b>RELIABLE SOFTWARE</b></font><br/>
-<sub><font color="#94a3b8">Clean APIs, optimal algorithmic complexity, modular code, and dependable UX.</font></sub>
+<td align="right">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=11&duration=2000&pause=1000&color=34d399&repeat=true&width=150&height=16&lines=%E2%97%8F+SYSTEM+ONLINE;%E2%97%8F+MONITORING+LIVE" alt="status indicator"/>
 </td>
 </tr>
 </table>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2800&pause=1000&color=38BDF8&multiline=true&width=800&height=110&lines=%5Binit%5D+loading+semantic_retrieval_pipeline...OK;%5Bdata%5D+aggregating+feature_vectors+%2B+FAISS+index...100%25;%5Bml%5D+evaluating+predictive_models+%28R%C2%B2%3D0.94%2C+loss%3D0.021%29;%5Bstream%5D+continuous+learning_loop+%E2%86%92+status%3A+active;">
+  <img alt="telemetry log"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2800&pause=1000&color=38BDF8&multiline=true&width=800&height=110&lines=%5Binit%5D+loading+semantic_retrieval_pipeline...OK;%5Bdata%5D+aggregating+feature_vectors+%2B+FAISS+index...100%25;%5Bml%5D+evaluating+predictive_models+%28R%C2%B2%3D0.94%2C+loss%3D0.021%29;%5Bstream%5D+continuous+learning_loop+%E2%86%92+status%3A+active;">
+</picture>
 
 </td>
 </tr>
