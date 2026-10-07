@@ -15,67 +15,51 @@
 
 <br/><br/>
 
-<!-- ══════════════ EXPANDED 50/50 TWO-COLUMN PANELS ══════════════ -->
+<!-- ══════════════ COMPACT 50/50 TWO-COLUMN PANELS ══════════════ -->
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width: 860px;">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width: 820px;">
 <tr>
-<td width="48%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 24px 22px;">
+<td width="48%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 18px 20px;">
 
 <div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=13&duration=100&pause=99999&color=8b949e&vCenter=true&repeat=false&width=110&height=16&lines=%2F%2F+about" alt="// about"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=12&duration=100&pause=99999&color=8b949e&vCenter=true&repeat=false&width=100&height=16&lines=%2F%2F+about" alt="// about"/>
 
 <br/><br/>
 
-<sub><font color="#8b949e"><b>BACKGROUND & ACADEMICS</b></font></sub><br/>
-<font color="#c9d1d9"><b>Final-year B.Tech in Computer Science</b></font><br/>
-<font color="#8b949e">Minor in Data Science &bull; Deepening foundation in algorithms, system design, and applied intelligence.</font>
+<sub><font color="#8b949e"><b>FOCUS & BACKGROUND</b></font></sub><br/>
+<font color="#c9d1d9"><b>B.Tech CS &middot; Data Science Minor</b></font><br/>
+<font color="#8b949e">Core interest in intelligent systems and data engineering.</font>
 
 <br/><br/>
 
-<sub><font color="#8b949e"><b>ENGINEERING FOCUS</b></font></sub><br/>
-<font color="#c9d1d9"><b>Bridging Data Science & Production Systems</b></font><br/>
-<font color="#8b949e">Passionate about building AI-driven software where models aren't isolated prototypes, but reliable, integrated backends that solve real document and analytical problems.</font>
-
-<br/><br/>
-
-<sub><font color="#8b949e"><b>CORE PHILOSOPHY</b></font></sub><br/>
-<font color="#c9d1d9"><b>data &rarr; decisions &nbsp;&bull;&nbsp; software &rarr; impact</b></font><br/>
-<font color="#8b949e">Crafting software that turns unstructured information into structured intelligence with speed and precision.</font>
+<sub><font color="#8b949e"><b>CORE PRINCIPLE</b></font></sub><br/>
+<font color="#c9d1d9"><b>data &rarr; decisions &nbsp;&bull;&nbsp; software &rarr; utility</b></font><br/>
+<font color="#8b949e">Building clean, robust code that turns data into action.</font>
 </div>
 
 </td>
 
 <td width="4%"></td>
 
-<td width="48%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 24px 22px;">
+<td width="48%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 18px 20px;">
 
 <div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=13&duration=100&pause=99999&color=8b949e&vCenter=true&repeat=false&width=130&height=16&lines=%2F%2F+currently" alt="// currently"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=12&duration=100&pause=99999&color=8b949e&vCenter=true&repeat=false&width=120&height=16&lines=%2F%2F+currently" alt="// currently"/>
 
 <br/><br/>
 
-<font color="#58a6ff"><code>01</code></font>&nbsp; <font color="#c9d1d9"><b>DSA & Problem Solving</b></font><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#8b949e">Strengthening advanced algorithms, complexity analysis, and pattern design.</font>
+<font color="#58a6ff"><code>01</code></font>&nbsp; <font color="#c9d1d9"><b>AI & Document Intelligence</b></font><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#8b949e">RAG pipelines, vector search, and LLM interfaces.</font>
 
 <br/>
 
-<font color="#58a6ff"><code>02</code></font>&nbsp; <font color="#c9d1d9"><b>RAG & AI Intelligence Platforms</b></font><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#8b949e">Developing vector search (FAISS) & LLM document querying pipelines.</font>
+<font color="#58a6ff"><code>02</code></font>&nbsp; <font color="#c9d1d9"><b>Data Analytics & ML</b></font><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#8b949e">Predictive modeling, data dashboards, and insights.</font>
 
 <br/>
 
-<font color="#58a6ff"><code>03</code></font>&nbsp; <font color="#c9d1d9"><b>Machine Learning & Data Science</b></font><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#8b949e">Predictive modeling, EDA pipelines, and statistical donor/healthcare analytics.</font>
-
-<br/>
-
-<font color="#58a6ff"><code>04</code></font>&nbsp; <font color="#c9d1d9"><b>Backend & API Engineering</b></font><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#8b949e">Designing robust, modular RESTful services with Python (FastAPI / Flask).</font>
-
-<br/>
-
-<font color="#58a6ff"><code>05</code></font>&nbsp; <font color="#c9d1d9"><b>Full-Stack Product Craft</b></font><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#8b949e">Connecting clean React/Vite interfaces with intelligent backend architectures.</font>
+<font color="#58a6ff"><code>03</code></font>&nbsp; <font color="#c9d1d9"><b>Backend & System Foundations</b></font><br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#8b949e">API architecture, Python backends, and DSA.</font>
 </div>
 
 </td>
