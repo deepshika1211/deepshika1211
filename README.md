@@ -93,16 +93,36 @@ I'm applying these interests through projects involving PDF intelligence, predic
 
 <br/>
 
-<!-- ══════════════ COMPACT ACTIVITY SNAKE ══════════════ -->
+<!-- ══════════════ ENGINEERING & SYSTEM ARCHITECTURE PILLARS ══════════════ -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/deepshika1211/deepshika1211/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/deepshika1211/deepshika1211/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake"
-    src="https://raw.githubusercontent.com/deepshika1211/deepshika1211/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<table width="100%" cellpadding="14" cellspacing="0" border="0" style="max-width: 860px; border: 1px solid #1e293b; border-radius: 10px; background-color: #0b0f19;">
+<tr>
+<td align="left">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=100&pause=99999&color=818cf8&vCenter=true&repeat=false&width=150&height=16&lines=%2F%2F+core+pillars" alt="// core pillars"/>
+
+<br/><br/>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="33%" valign="top">
+<font color="#60a5fa"><code>01</code></font> <font color="#e2e8f0"><b>DATA TO VALUE</b></font><br/>
+<sub><font color="#94a3b8">Uncovering signal in messy data with statistics, feature pipelines & clear visualization.</font></sub>
+</td>
+<td width="33%" valign="top">
+<font color="#818cf8"><code>02</code></font> <font color="#e2e8f0"><b>INTELLIGENT SYSTEMS</b></font><br/>
+<sub><font color="#94a3b8">Deploying pragmatic RAG, vector retrieval, and LLM-assisted workflow automation.</font></sub>
+</td>
+<td width="33%" valign="top">
+<font color="#a78bfa"><code>03</code></font> <font color="#e2e8f0"><b>RELIABLE SOFTWARE</b></font><br/>
+<sub><font color="#94a3b8">Clean APIs, optimal algorithmic complexity, modular code, and dependable UX.</font></sub>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
 
 <br/><br/>
 
