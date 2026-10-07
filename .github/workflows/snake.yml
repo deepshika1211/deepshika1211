@@ -2,7 +2,6 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    # Runs every day at 00:30 UTC
     - cron: "30 0 * * *"
   workflow_dispatch:
   push:
@@ -14,6 +13,9 @@ jobs:
     name: Generate snake SVG
     runs-on: ubuntu-latest
     timeout-minutes: 10
+
+    permissions:
+      contents: write
 
     steps:
       - name: Generate contribution snake (light + dark)
