@@ -260,7 +260,7 @@ Java-based drawing application — custom data structures, undo/redo stacks, Bre
 
 [![GitHub](https://img.shields.io/badge/github-%40deepshika1211-2a2f36?style=flat-square&logo=github&logoColor=white)](https://github.com/deepshika1211)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/linkedin-connect-2a2f36?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![LinkedIn](https://img.shields.io/badge/linkedin-deepshika--yerrangi-2a2f36?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/deepshika-yerrangi)
 &nbsp;
 [![Email](https://img.shields.io/badge/email-reach%20out-2a2f36?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@example.com)
 
