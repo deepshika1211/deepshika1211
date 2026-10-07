@@ -19,7 +19,7 @@
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width: 860px;">
 <tr>
-<td width="48%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 18px 20px;">
+<td width="48%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 16px 18px;">
 
 <div align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=12&duration=100&pause=99999&color=8b949e&vCenter=true&repeat=false&width=100&height=16&lines=%2F%2F+about" alt="// about"/>
@@ -29,7 +29,7 @@
 <font color="#c9d1d9">
 I'm a final-year B.Tech Computer Science student with a minor in Data Science, interested in building practical systems where software, data, and AI come together. My work spans data analysis, machine learning, backend development, and AI-powered applications, with a focus on turning technical ideas into useful solutions.
 </font>
-<br/><br/>
+<br/>
 
 <sub><font color="#8b949e"><b>CORE PRINCIPLE</b></font></sub><br/>
 <font color="#c9d1d9">
@@ -41,7 +41,7 @@ I enjoy taking data from raw information to meaningful insight, then turning tho
 
 <td width="4%"></td>
 
-<td width="48%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 18px 20px;">
+<td width="48%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 16px 18px;">
 
 <div align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=12&duration=100&pause=99999&color=8b949e&vCenter=true&repeat=false&width=120&height=16&lines=%2F%2F+currently" alt="// currently"/>
@@ -51,7 +51,7 @@ I enjoy taking data from raw information to meaningful insight, then turning tho
 <font color="#c9d1d9">
 I'm currently strengthening my DSA and problem-solving foundations while deepening my understanding of machine learning, data analytics, and backend engineering. I'm particularly interested in AI-powered applications, document intelligence, RAG pipelines, semantic search, and the connection between intelligent models and real software systems.
 </font>
-<br/><br/>
+<br/>
 
 <sub><font color="#8b949e"><b>WHAT I'M BUILDING</b></font></sub><br/>
 <font color="#c9d1d9">
