@@ -2,7 +2,7 @@
 
 <!-- ══════════════ HEADER BANNER ══════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=150&section=header&text=deepshika.&fontColor=efefef&fontSize=48&fontAlign=50&fontAlignY=38&desc=data%20%C2%B7%20ai%20%C2%B7%20software&descAlignY=62&descColor=666666&descSize=14&animation=fadeIn" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=140&section=header&text=deepshika.&fontColor=efefef&fontSize=46&fontAlign=50&fontAlignY=38&desc=data%20%C2%B7%20ai%20%C2%B7%20software&descAlignY=62&descColor=666666&descSize=14&animation=fadeIn" alt="header"/>
 
 <!-- ══════════════ TYPING TAGLINES ══════════════ -->
 
@@ -13,71 +13,84 @@
     src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=13&duration=2600&pause=1200&color=555555&center=true&vCenter=true&width=580&height=22&lines=making+data+reason+and+software+decide.;building+intelligent+systems+from+scratch.;ai+%2F+data+science+%2F+software+engineering;learning%2C+building%2C+breaking%2C+rebuilding.">
 </picture>
 
+<br/><br/>
+
+<!-- ══════════════ ABOUT & CURRENTLY (UNIFIED CARDS) ══════════════ -->
+
+<table width="680" cellpadding="14" cellspacing="0" style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117;">
+<tr>
+<td align="left">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=12&duration=100&pause=99999&color=8b949e&vCenter=true&repeat=false&width=100&height=16&lines=%2F%2F+about" alt="// about"/>
+
+<br/><br/>
+
+<sub><b>DEGREE & FOCUS</b></sub><br/>
+<code>final-year B.Tech CS &middot; Data Science minor</code>
+
+<br/><br/>
+
+<sub><b>CORE PHILOSOPHY</b></sub><br/>
+i'm drawn to the space where <b>data becomes a decision</b> and <b>software becomes useful</b> —  
+building systems that reason, process, and respond rather than just execute.
+
+</td>
+</tr>
+</table>
+
 <br/>
 
-<!-- ══════════════ IDENTITY ══════════════ -->
-
-<table border="0" cellspacing="0" cellpadding="8">
+<table width="680" cellpadding="14" cellspacing="0" style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117;">
 <tr>
 <td align="left">
 
-```
-  final-year B.Tech CS  ·  Data Science minor
-  drawn to the space where data becomes a decision
-  and software becomes something actually useful
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=12&duration=100&pause=99999&color=8b949e&vCenter=true&repeat=false&width=120&height=16&lines=%2F%2F+currently" alt="// currently"/>
+
+<br/><br/>
+
+&nbsp;<code>→</code>&nbsp; deepening DSA & problem-solving foundations<br/>
+&nbsp;<code>→</code>&nbsp; building AI-powered document intelligence systems<br/>
+&nbsp;<code>→</code>&nbsp; exploring ML pipelines and model evaluation<br/>
+&nbsp;<code>→</code>&nbsp; improving backend architecture & API design<br/>
+&nbsp;<code>→</code>&nbsp; learning how real production systems are engineered
 
 </td>
 </tr>
 </table>
 
-<!-- ══════════════ CURRENTLY ══════════════ -->
-
-<table border="0" cellspacing="0" cellpadding="6">
-<tr>
-<td align="left">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=11&duration=100&pause=99999&color=555555&vCenter=true&repeat=false&width=120&height=16&lines=currently" alt="currently"/>
-
-```
-  →  deepening DSA and problem-solving foundations
-  →  building AI-powered document intelligence systems
-  →  exploring ML pipelines and how models actually behave
-  →  improving backend architecture and API design
-  →  learning how real production systems are built
-```
-
-</td>
-</tr>
-</table>
+<br/>
 
 <!-- ══════════════ TECH STACK ══════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=11&duration=100&pause=99999&color=555555&center=true&vCenter=true&repeat=false&width=120&height=16&lines=tech+stack" alt="tech stack"/>
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=12&duration=100&pause=99999&color=8b949e&center=true&vCenter=true&repeat=false&width=120&height=16&lines=%2F%2F+tech+stack" alt="// tech stack"/>
 
-<table border="0" cellspacing="0" cellpadding="4">
+<br/><br/>
+
+<table border="0" cellspacing="0" cellpadding="6">
 <tr>
-<td align="center" width="105">
+<td align="center" width="115">
 <sub><b>LANGUAGES</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql&theme=dark&perline=5" height="30" alt="languages"/>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql&theme=dark&perline=5" height="28" alt="languages"/>
 </td>
 <td width="1" bgcolor="#21262d"></td>
-<td align="center" width="105">
+<td align="center" width="115">
 <sub><b>BACKEND</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark&perline=5" height="30" alt="backend"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark&perline=5" height="28" alt="backend"/>
 </td>
 <td width="1" bgcolor="#21262d"></td>
-<td align="center" width="105">
+<td align="center" width="115">
 <sub><b>FRONTEND</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark&perline=5" height="30" alt="frontend"/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark&perline=5" height="28" alt="frontend"/>
 </td>
 <td width="1" bgcolor="#21262d"></td>
-<td align="center" width="105">
+<td align="center" width="115">
 <sub><b>TOOLS</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=5" height="30" alt="tools"/>
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=5" height="28" alt="tools"/>
 </td>
 </tr>
 </table>
+
+<br/>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="20"/>&nbsp;
@@ -90,10 +103,13 @@
 <img src="https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white" height="20"/>
 </p>
 
+<br/>
+
 <!-- ══════════════ CONTRIBUTION SNAKE ══════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=11&duration=100&pause=99999&color=555555&center=true&vCenter=true&repeat=false&width=180&height=16&lines=contribution+activity" alt="contribution activity"/>
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=12&duration=100&pause=99999&color=8b949e&center=true&vCenter=true&repeat=false&width=180&height=16&lines=%2F%2F+activity" alt="// activity"/>
+
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -104,7 +120,7 @@
     src="https://raw.githubusercontent.com/deepshika1211/deepshika1211/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-<br/>
+<br/><br/>
 
 <!-- ══════════════ CONNECT ══════════════ -->
 
