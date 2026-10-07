@@ -19,7 +19,7 @@
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width: 860px; border: none; border-collapse: separate; border-spacing: 16px 0;">
 <tr>
-<td width="50%" valign="top" style="border: 1px solid #1e293b; border-radius: 10px; background-color: #0b0f19; padding: 20px 22px;">
+<td width="50%" valign="top" style="border: 1px solid #1e293b; border-radius: 10px; background-color: #0b0f19; padding: 18px 20px;">
 
 <div align="left">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=100&pause=99999&color=818cf8&vCenter=true&repeat=false&width=110&height=16&lines=%2F%2F+about" alt="// about"/>
@@ -39,7 +39,7 @@ I enjoy taking data from raw information to meaningful insight, then turning tho
 
 </td>
 
-<td width="50%" valign="top" style="border: 1px solid #1e293b; border-radius: 10px; background-color: #0b0f19; padding: 20px 22px;">
+<td width="50%" valign="top" style="border: 1px solid #1e293b; border-radius: 10px; background-color: #0b0f19; padding: 18px 20px;">
 
 <div align="left">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=100&pause=99999&color=818cf8&vCenter=true&repeat=false&width=130&height=16&lines=%2F%2F+currently" alt="// currently"/>
@@ -61,58 +61,39 @@ I'm applying these interests through projects involving PDF intelligence, predic
 </tr>
 </table>
 
-<br/><br/>
+<br/>
 
-<!-- ══════════════ TECH STACK ══════════════ -->
+<!-- ══════════════ COMPACT & ELEGANT TECH STACK ══════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=100&pause=99999&color=818cf8&center=true&vCenter=true&repeat=false&width=140&height=18&lines=%2F%2F+tech+stack" alt="// tech stack"/>
-
-<br/><br/>
-
-<table border="0" cellspacing="0" cellpadding="8" style="border: 1px solid #1e293b; border-radius: 10px; background-color: #0b0f19;">
+<table width="100%" cellpadding="14" cellspacing="0" border="0" style="max-width: 860px; border: 1px solid #1e293b; border-radius: 10px; background-color: #0b0f19;">
 <tr>
-<td align="center" width="125">
-<sub><font color="#94a3b8"><b>LANGUAGES</b></font></sub><br/><br/>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql&theme=dark&perline=5" height="30" alt="languages"/>
-</td>
-<td width="1" bgcolor="#1e293b"></td>
-<td align="center" width="125">
-<sub><font color="#94a3b8"><b>BACKEND & AI</b></font></sub><br/><br/>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postman&theme=dark&perline=3" height="30" alt="backend"/>
-</td>
-<td width="1" bgcolor="#1e293b"></td>
-<td align="center" width="125">
-<sub><font color="#94a3b8"><b>FRONTEND</b></font></sub><br/><br/>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark&perline=3" height="30" alt="frontend"/>
-</td>
-<td width="1" bgcolor="#1e293b"></td>
-<td align="center" width="125">
-<sub><font color="#94a3b8"><b>DEV TOOLS</b></font></sub><br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" height="30" alt="tools"/>
+<td align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=100&pause=99999&color=818cf8&center=true&vCenter=true&repeat=false&width=130&height=16&lines=%2F%2F+tech+stack" alt="// tech stack"/>
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,fastapi,flask,react,vite,tailwind,git,github,vscode,postman&theme=dark&perline=14" height="34" alt="skills"/>
+
+<br/><br/>
+
+<p align="center" style="margin: 0; padding: 0;">
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="20"/>&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="20"/>&nbsp;
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="20"/>&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" height="20"/>&nbsp;
+<img src="https://img.shields.io/badge/FAISS-00599C?style=flat-square&logo=meta&logoColor=white" height="20"/>&nbsp;
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=google&logoColor=white" height="20"/>&nbsp;
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="20"/>&nbsp;
+<img src="https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white" height="20"/>
+</p>
+
 </td>
 </tr>
 </table>
 
 <br/>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="22"/>&nbsp;
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="22"/>&nbsp;
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="22"/>&nbsp;
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" height="22"/>&nbsp;
-<img src="https://img.shields.io/badge/FAISS-00599C?style=flat-square&logo=meta&logoColor=white" height="22"/>&nbsp;
-<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=google&logoColor=white" height="22"/>&nbsp;
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="22"/>&nbsp;
-<img src="https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white" height="22"/>
-</p>
-
-<br/>
-
-<!-- ══════════════ CONTRIBUTION SNAKE ══════════════ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=100&pause=99999&color=818cf8&center=true&vCenter=true&repeat=false&width=180&height=18&lines=%2F%2F+activity+graph" alt="// activity"/>
-
-<br/><br/>
+<!-- ══════════════ COMPACT ACTIVITY SNAKE ══════════════ -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
