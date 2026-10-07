@@ -1,8 +1,12 @@
 <div align="center">
 
-<!-- ══════════════ HEADER BANNER ══════════════ -->
+<!-- ══════════════ COSMIC ANIMATED SPACE HERO ══════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=140&section=header&text=deepshika.&fontColor=efefef&fontSize=46&fontAlign=50&fontAlignY=38&desc=data%20%C2%B7%20ai%20%C2%B7%20software&descAlignY=62&descColor=666666&descSize=14&animation=fadeIn" alt="header"/>
+<picture>
+  <img width="100%" style="max-width: 860px;" src="https://raw.githubusercontent.com/deepshika1211/deepshika1211/main/assets/space-hero.svg" alt="deepshika - space hero"/>
+</picture>
+
+<br/>
 
 <!-- ══════════════ TYPING TAGLINES ══════════════ -->
 
@@ -15,7 +19,7 @@
 
 <br/><br/>
 
-<!-- ══════════════ TWO INDEPENDENT CARDS (NO CONNECTING LINES) ══════════════ -->
+<!-- ══════════════ MATCHED 50/50 TWO-COLUMN PANELS ══════════════ -->
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width: 860px; border: none; border-collapse: separate; border-spacing: 16px 0;">
 <tr>
