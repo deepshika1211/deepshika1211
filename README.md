@@ -15,11 +15,11 @@
 
 <br/><br/>
 
-<!-- ══════════════ MATCHED 50/50 TWO-COLUMN PANELS ══════════════ -->
+<!-- ══════════════ TWO INDEPENDENT CARDS (NO CONNECTING LINES) ══════════════ -->
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width: 860px;">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="max-width: 860px; border: none; border-collapse: separate; border-spacing: 16px 0;">
 <tr>
-<td width="48%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 16px 18px;">
+<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 18px 20px;">
 
 <div align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=12&duration=100&pause=99999&color=8b949e&vCenter=true&repeat=false&width=100&height=16&lines=%2F%2F+about" alt="// about"/>
@@ -39,9 +39,7 @@ I enjoy taking data from raw information to meaningful insight, then turning tho
 
 </td>
 
-<td width="4%"></td>
-
-<td width="48%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 16px 18px;">
+<td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 8px; background-color: #0d1117; padding: 18px 20px;">
 
 <div align="left">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=700&size=12&duration=100&pause=99999&color=8b949e&vCenter=true&repeat=false&width=120&height=16&lines=%2F%2F+currently" alt="// currently"/>
