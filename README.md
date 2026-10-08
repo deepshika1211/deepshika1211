@@ -131,7 +131,7 @@ I'm applying these interests through projects involving PDF intelligence, predic
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-deepshika--yerrangi-0f172a?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0284c7)](https://linkedin.com/in/deepshika-yerrangi)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-0f172a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ef4444)](mailto:YOUR-EMAIL@example.com)
+[![Email](https://img.shields.io/badge/Email-deeptiyerrangi%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=ef4444)](mailto:deeptiyerrangi@gmail.com)
 
 <br/><br/>
 
