@@ -68,10 +68,10 @@
 
   <text x="28" y="66" font-size="10.5" font-weight="bold" fill="#818cf8" letter-spacing="1.5" class="sh0">&#x25C8;  LANGUAGES</text>
   <line x1="109" y1="61" x2="672" y2="61" stroke="#1e293b" stroke-width="1" class="sh0"/>
-  <text x="28" y="216" font-size="10.5" font-weight="bold" fill="#818cf8" letter-spacing="1.5" class="sh1">&#x25C8;  FRAMEWORKS & TOOLS</text>
-  <line x1="177" y1="211" x2="672" y2="211" stroke="#1e293b" stroke-width="1" class="sh1"/>
-  <text x="28" y="394" font-size="10.5" font-weight="bold" fill="#818cf8" letter-spacing="1.5" class="sh2">&#x25C8;  AI & DATA</text>
-  <line x1="109" y1="389" x2="672" y2="389" stroke="#1e293b" stroke-width="1" class="sh2"/>
+  <text x="28" y="216" font-size="10.5" font-weight="bold" fill="#818cf8" letter-spacing="1.5" class="sh1">&#x25C8;  FRAMEWORKS &amp; TOOLS</text>
+  <line x1="207" y1="211" x2="672" y2="211" stroke="#1e293b" stroke-width="1" class="sh1"/>
+  <text x="28" y="394" font-size="10.5" font-weight="bold" fill="#818cf8" letter-spacing="1.5" class="sh2">&#x25C8;  AI &amp; DATA</text>
+  <line x1="139" y1="389" x2="672" y2="389" stroke="#1e293b" stroke-width="1" class="sh2"/>
 
   <!-- Python -->
   <text x="28" y="96" font-size="12" fill="#94a3b8" class="t0">Python</text>
