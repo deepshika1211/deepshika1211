@@ -63,29 +63,50 @@ I'm applying these interests through projects involving PDF intelligence, predic
 
 <br/>
 
-<!-- ══════════════ COMPACT & ELEGANT TECH STACK ══════════════ -->
+<!-- ══════════════ ANIMATED TECH STACK ══════════════ -->
 
-<table width="100%" cellpadding="14" cellspacing="0" border="0" style="max-width: 860px; border: 1px solid #1e293b; border-radius: 10px; background-color: #0b0f19;">
+<table width="100%" cellpadding="20" cellspacing="0" border="0" style="max-width: 860px; border: 1px solid #1e293b; border-radius: 12px; background-color: #0b0f19;">
 <tr>
 <td align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=12&duration=100&pause=99999&color=818cf8&center=true&vCenter=true&repeat=false&width=130&height=16&lines=%2F%2F+tech+stack" alt="// tech stack"/>
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,fastapi,flask,react,vite,tailwind,git,github,vscode,postman&theme=dark&perline=14" height="34" alt="skills"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=13&duration=3000&pause=1000&color=818cf8&center=true&vCenter=true&repeat=true&width=400&height=20&lines=%2F%2F+tech+stack+%E2%80%94+languages;%2F%2F+tech+stack+%E2%80%94+frameworks+%26+tools;%2F%2F+tech+stack+%E2%80%94+ai+%26+data;%2F%2F+tech+stack+%E2%80%94+full+picture" alt="// tech stack"/>
 
 <br/><br/>
 
-<p align="center" style="margin: 0; padding: 0;">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="20"/>&nbsp;
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="20"/>&nbsp;
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="20"/>&nbsp;
-<img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" height="20"/>&nbsp;
-<img src="https://img.shields.io/badge/FAISS-00599C?style=flat-square&logo=meta&logoColor=white" height="20"/>&nbsp;
-<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=google&logoColor=white" height="20"/>&nbsp;
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="20"/>&nbsp;
-<img src="https://img.shields.io/badge/DAX-0078D4?style=flat-square&logo=microsoft&logoColor=white" height="20"/>
-</p>
+<!-- LANGUAGES -->
+<img src="https://img.shields.io/badge/%E2%97%8F%20LANGUAGES-0b0f19?style=flat-square&labelColor=1e293b&color=1e293b&logoColor=818cf8" height="18"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java&theme=dark&perline=10" height="38" alt="languages"/>
+
+<br/><br/>
+
+<!-- FRAMEWORKS & TOOLS -->
+<img src="https://img.shields.io/badge/%E2%97%8F%20FRAMEWORKS+%26+TOOLS-0b0f19?style=flat-square&labelColor=1e293b&color=1e293b" height="18"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,vite,tailwind,mysql,git,github,vscode,postman&theme=dark&perline=10" height="38" alt="frameworks"/>
+
+<br/><br/>
+
+<!-- AI & DATA -->
+<img src="https://img.shields.io/badge/%E2%97%8F%20AI+%26+DATA-0b0f19?style=flat-square&labelColor=1e293b&color=1e293b" height="18"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="22"/>&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="22"/>&nbsp;
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="22"/>&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" height="22"/>
+
+<br/>&nbsp;<br/>
+
+<img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white" height="22"/>&nbsp;
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white" height="22"/>&nbsp;
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="22"/>&nbsp;
+<img src="https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="22"/>
 
 </td>
 </tr>
